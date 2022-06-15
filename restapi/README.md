@@ -47,7 +47,7 @@ Requirements:
       Don't freak out about it, any inconsistent migrations will not be applied and alembic will let you know.
 
 **API Reading**
-- [1] CRUD REST API Java, Spring, MySQL. Entidade com anotações, Mapeamento, Id e restrições de colunas.  (fhttps://www.youtube.com/watch?v=aEAFpQfcu-0) for more
+- [1] CRUD REST API Java, Spring, MySQL. Entidade com anotações, Mapeamento, Id e restrições de colunas.  (https://www.youtube.com/watch?v=aEAFpQfcu-0) for more
 - [2] CRUD REST Java, Spring, MySQL no VS Code. Criando Repository e o REST com todos os detalhes. (https://www.youtube.com/watch?v=e4oyd-8aDCw)
 - [2] AULA 03 - Passo a passo para testar o nosso CRUD REST JAVA SPRING MySQL no VS Code. (https://www.youtube.com/watch?v=b_vdrTDakB8)
 
