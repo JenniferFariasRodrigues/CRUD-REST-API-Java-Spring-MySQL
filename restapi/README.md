@@ -55,6 +55,14 @@ Requirements:
 
 Exists two kinds of deployment in this project:
 
+## REST API image
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/69055449/174313031-83cd2453-1c65-475d-8dd1-d9081d8c5c3a.jpeg" width="750 /px" alt="accessibility text" />
+</p>
+
+
+
 
 
 
