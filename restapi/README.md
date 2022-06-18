@@ -47,9 +47,10 @@ Requirements:
       Don't freak out about it, any inconsistent migrations will not be applied and alembic will let you know.
 
 **API Reading**
-- [1] CRUD REST API Java, Spring, MySQL. Entidade com anotações, Mapeamento, Id e restrições de colunas.  (https://www.youtube.com/watch?v=aEAFpQfcu-0) for more
+- [1] CRUD REST API Java, Spring, MySQL. Entidade com anotações, Mapeamento, Id e restrições de colunas.  (https://www.youtube.com/watch?v=aEAFpQfcu-0) for more details(https://github.com/heliokamakawa/rest-api-java)
 - [2] CRUD REST Java, Spring, MySQL no VS Code. Criando Repository e o REST com todos os detalhes. (https://www.youtube.com/watch?v=e4oyd-8aDCw)
-- [2] AULA 03 - Passo a passo para testar o nosso CRUD REST JAVA SPRING MySQL no VS Code. (https://www.youtube.com/watch?v=b_vdrTDakB8)
+- [3] AULA 03 - Passo a passo para testar o nosso CRUD REST JAVA SPRING MySQL no VS Code. (https://www.youtube.com/watch?v=b_vdrTDakB8)
+- [4] Uso do Entity(https://www.devmedia.com.br/jpa-como-usar-a-anotacao-entity/38410)
 
 ## Deploying
 
@@ -60,6 +61,8 @@ Exists two kinds of deployment in this project:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69055449/174313031-83cd2453-1c65-475d-8dd1-d9081d8c5c3a.jpeg" width="750 /px" alt="accessibility text" />
 </p>
+
+
 
 
 
