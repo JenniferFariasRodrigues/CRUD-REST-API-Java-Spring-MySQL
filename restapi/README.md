@@ -23,7 +23,7 @@ Steps to test this project:
 - No banco de dados MySQL, por exemplo Workbench. Criar o banco de dados com os dados do application.properties. Criar a tabela: create Database aula;
 - Baixar o aplicativo Advanced REST Client.(https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo/related?hl=pt-BR)
 - Digitar a url segundo o protocolo desejado: GET-buscar, POST-inserir/salvar, PUT-alterar, DELETE-deletar : localhost:8080/contato
-- [1] Por exemplo POST: 
+####  [1] Por exemplo POST: 
  * Para inserir dados, metodo POST.
  * No campo Body troca para application/JSON.
  * Inserir os dados de contato no formato JSON.
