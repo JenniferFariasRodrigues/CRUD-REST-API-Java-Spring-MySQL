@@ -57,7 +57,7 @@ Abrir em nova guia e copiar endereço de url.
 #### [3] Protocolo GET:
 *  Somente clicar em SEND para visualizar os dados;
 * Também pode colocar no navegador-mesmo comando: localhost:8080/contato
-- Fig 4 GET
+- Fig 4:GET
 #### [4] Protocolo DELETE:
 * Seleciona o DELETE=> SEND
 - Formato JSON
