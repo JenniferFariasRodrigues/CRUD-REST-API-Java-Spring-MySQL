@@ -24,9 +24,9 @@ Steps to test this project:
 - Baixar o aplicativo Advanced REST Client.(https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo/related?hl=pt-BR)
 - Digitar a url segundo o protocolo desejado: GET-buscar, POST-inserir/salvar, PUT-alterar, DELETE-deletar : localhost:8080/contato
 - [1] Por exemplo POST: 
-- Para inserir dados, metodo POST.
-- No campo Body troca para application/JSON.
-- Inserir os dados de contato no formato JSON.
+ * Para inserir dados, metodo POST.
+ * No campo Body troca para application/JSON.
+ * Inserir os dados de contato no formato JSON.
 Utilizado avatar: https://pixabay.com/pt/illustrations/mulher-avatar-f%c3%aamea-jovem-mulher-1121654/
 Abrir em nova guia e copiar endereço de url.
 - Formato JSON
@@ -49,10 +49,10 @@ Abrir em nova guia e copiar endereço de url.
 *  }
 
 - [3] Por exemplo GET:
-- Somente clicar em SEND para visualizar os dados;
-- Também pode colocar no navegador-mesmo comando: localhost:8080/contato
+*  Somente clicar em SEND para visualizar os dados;
+* Também pode colocar no navegador-mesmo comando: localhost:8080/contato
 - [4] Por exemplo DELETE:
--Seleciona o DELETE=> SEND
+* Seleciona o DELETE=> SEND
 - Formato JSON
 * {
     * id: 2;
