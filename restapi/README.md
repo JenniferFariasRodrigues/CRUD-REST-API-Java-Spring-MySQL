@@ -36,7 +36,7 @@ Abrir em nova guia e copiar endereço de url.
     * "e-mail": "jennifer@jennifer.farias.com",
     * "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
 *  }
--Clicar em SEND.
+- Clicar em SEND.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69055449/174313031-83cd2453-1c65-475d-8dd1-d9081d8c5c3a.jpeg](https://user-images.githubusercontent.com/69055449/174653560-9db7a623-a403-480c-aa6b-7e38fe2e2da1.jpeg" width="750 /px" alt="accessibility text" />
