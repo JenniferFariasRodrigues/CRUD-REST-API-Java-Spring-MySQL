@@ -37,6 +37,7 @@ Abrir em nova guia e copiar endereço de url.
     * "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
 *  }
 - Clicar em SEND.
+- - Fig 1 e Fig2 POST
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69055449/174313031-83cd2453-1c65-475d-8dd1-d9081d8c5c3a.jpeg](https://user-images.githubusercontent.com/69055449/174653560-9db7a623-a403-480c-aa6b-7e38fe2e2da1.jpeg" width="750 /px" alt="accessibility text" />
@@ -51,11 +52,12 @@ Abrir em nova guia e copiar endereço de url.
     * "e-mail": "jennifer@jennifer.farias.com",
     *  "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
 *  }
+*  Fig 3 POST
 
 #### [3] Protocolo GET:
 *  Somente clicar em SEND para visualizar os dados;
 * Também pode colocar no navegador-mesmo comando: localhost:8080/contato
-
+- Fig 4 GET
 #### [4] Protocolo DELETE:
 * Seleciona o DELETE=> SEND
 - Formato JSON
@@ -67,6 +69,7 @@ Abrir em nova guia e copiar endereço de url.
     * "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
 * }
 - No banco de dados, clicar em atualizar,fazer a consulta. Visuzalizar que os dados foram excluídos.
+- - Fig 5 e 6 DELETE
 ### Running local
 - No banco de dados, clicar em atualizar;
 - Na tabela, Table=> contato, SELECT * from aula-contato;
