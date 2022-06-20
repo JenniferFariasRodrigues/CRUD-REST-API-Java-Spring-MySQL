@@ -54,13 +54,13 @@ Abrir em nova guia e copiar endereço de url.
 - [4] Por exemplo DELETE:
 -Seleciona o DELETE=> SEND
 - Formato JSON
-{
-    id: 2;
-    "nome":"Jose",
-    "Telefone":"11 98274-1111",
-    "e-mail": "jennifer@jennifer.farias.com",
-    "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
-}
+* {
+   * id: 2;
+   * "nome":"Jose",
+   * "Telefone":"11 98274-1111",
+    * "e-mail": "jennifer@jennifer.farias.com",
+    * "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
+* }
 - No banco de dados, clicar em atualizar,fazer a consulta. Visuzalizar que os dados foram excluídos.
 ### Running local
 - No banco de dados, clicar em atualizar;
