@@ -19,11 +19,11 @@ Requirements:
 
 ### Running tests
 
-Steps to test this project:
-- No banco de dados MySQL, por exemplo Workbench. Criar o banco de dados com os dados do application.properties. Criar a tabela: create Database aula;
-- Baixar o aplicativo Advanced REST Client.(https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo/related?hl=pt-BR)
-- Digitar a url segundo o protocolo desejado: GET-buscar, POST-inserir/salvar, PUT-alterar, DELETE-deletar : localhost:8080/contato
-####  [1] Por exemplo POST: 
+* Steps to test this project:
+    *  No banco de dados MySQL, por exemplo Workbench. Criar o banco de dados com os dados do application.properties. Criar a tabela: create Database aula;
+    * Baixar o aplicativo Advanced REST Client.(https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo/related?hl=pt-BR)
+    * Digitar a url segundo o protocolo desejado: GET-buscar, POST-inserir/salvar, PUT-alterar, DELETE-deletar : localhost:8080/contato
+####  [1] Protocolo POST: 
  * Para inserir dados, metodo POST.
  * No campo Body troca para application/JSON.
  * Inserir os dados de contato no formato JSON.
@@ -38,7 +38,7 @@ Abrir em nova guia e copiar endereço de url.
 *  }
 -Clicar em SEND.
 
-- [2] Por exemplo PUT:
+####  [2] Protocolo PUT:
 - Formato JSON
 * {
     * id: 2;
@@ -48,10 +48,11 @@ Abrir em nova guia e copiar endereço de url.
     *  "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
 *  }
 
-- [3] Por exemplo GET:
+#### [3] Protocolo GET:
 *  Somente clicar em SEND para visualizar os dados;
 * Também pode colocar no navegador-mesmo comando: localhost:8080/contato
-- [4] Por exemplo DELETE:
+
+#### [4] Protocolo DELETE:
 * Seleciona o DELETE=> SEND
 - Formato JSON
 * {
