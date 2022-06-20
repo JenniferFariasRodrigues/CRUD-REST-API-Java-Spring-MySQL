@@ -32,7 +32,7 @@ public class ContatoREST {
     //retornara a lista de contatos no formato objetos java,mas o formato padrao de troca 
     //O Spring faz a conversao do objeto JAva para o JSON
     @GetMapping
-    // metodo  consultar
+    // metodo  consultar. Busca todos os contatos do banco de dados
     public List<Contato>listar(){
         return repositorio.findAll();
     }
@@ -54,7 +54,7 @@ public class ContatoREST {
     
     @PutMapping
     // metodo alterar
-    public void salterar(@RequestBody Contato contato){
+    public void alterar(@RequestBody Contato contato){
         //validacao-se existir o ID
         if(contato.getId()>0){
             //metodo save para salvar e alterar
