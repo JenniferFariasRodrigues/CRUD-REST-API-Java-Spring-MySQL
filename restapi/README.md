@@ -30,23 +30,23 @@ Steps to test this project:
 Utilizado avatar: https://pixabay.com/pt/illustrations/mulher-avatar-f%c3%aamea-jovem-mulher-1121654/
 Abrir em nova guia e copiar endereço de url.
 - Formato JSON
-{
-    "nome":"Jose",
-    "Telefone":"11 98274-1111",
-    "e-mail": "jennifer@jennifer.farias.com",
-    "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
-}
+* {
+    *  "nome":"Jose",
+    *  "Telefone":"11 98274-1111",
+    * "e-mail": "jennifer@jennifer.farias.com",
+    * "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
+*  }
 -Clicar em SEND.
 
 - [2] Por exemplo PUT:
 - Formato JSON
-{
-    id: 2;
-    "nome":"Jose",
-    "Telefone":"11 98274-1111",
-    "e-mail": "jennifer@jennifer.farias.com",
-    "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
-}
+* {
+    * id: 2;
+    * "nome":"Jose",
+    * "Telefone":"11 98274-1111",
+    * "e-mail": "jennifer@jennifer.farias.com",
+    *  "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
+*  }
 
 - [3] Por exemplo GET:
 - Somente clicar em SEND para visualizar os dados;
@@ -55,9 +55,9 @@ Abrir em nova guia e copiar endereço de url.
 -Seleciona o DELETE=> SEND
 - Formato JSON
 * {
-   * id: 2;
-   * "nome":"Jose",
-   * "Telefone":"11 98274-1111",
+    * id: 2;
+    * "nome":"Jose",
+    * "Telefone":"11 98274-1111",
     * "e-mail": "jennifer@jennifer.farias.com",
     * "urlavatar":"https://cdn.pixabay.com/photo/2016/01/04/21/57/woman-1121654_960_720.png"
 * }
